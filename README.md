@@ -10,7 +10,7 @@ For this final project I benefitted from the following resources:
 # cloning GitHub repositories 
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-# de[loying your site using github Pages
+# deploying your site using github Pages
 
 Follow the guide 
 at https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
