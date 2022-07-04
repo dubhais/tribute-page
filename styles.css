@@ -60,6 +60,7 @@ h1{
   ul{
     max-width: 500px;
     line-height: 1.6;
+    margin: 0 auto 50px auto; /* added from source of original example. This fixes the responsiveness problem */
   }
   
   li{
