@@ -1,1 +1,80 @@
 /* Copy and paste your CSS from CodePen into here */
+
+h1{
+    color: rgb(34,28,123);
+    font-family: audiowide, sans-serif;
+    font-size:3em;
+    margin: 0 0 -10 0;
+  }
+  
+  #header{
+    text-align:center;
+  }
+  
+  #main{
+    border-radius: 20px;
+    margin: 20px 0 10px 0;
+    padding: 10px;
+    background: rgb(200,228,123);
+    
+  }
+  
+  body{
+    
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 14pt;
+  }
+  
+  body{
+    background-color: rgb(140,228,123)
+  }
+  
+  #img-div{
+    padding:20px;
+    background-color: rgb(180,208,103);
+  }
+  
+  #img-caption{
+    font-family: 'Irish Grover', cursive;
+    background-color: rgb(190,208,103)
+  }
+  
+  img{
+    display: block;
+  }
+  
+  #image{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto; /* this centres the image */
+  }
+  
+  #tribute-info{
+    margin: 0 0 0 60px;
+  }
+  
+  #timeline-header{
+      text-align: center;
+  }
+  
+  ul{
+    max-width: 500px;
+    line-height: 1.6;
+  }
+  
+  li{
+    margin: 0 0 16px 0;
+  }
+  
+  blockquote{
+    max-width: 500px;
+    margin: 50px 0 50px 60px;
+    font-family: 'Irish Grover', cursive;
+  }
+  
+  footer{
+    text-align: center;
+    
+  }
+  
+  
