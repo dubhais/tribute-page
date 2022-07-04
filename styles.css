@@ -32,6 +32,7 @@ h1{
   #img-div{
     padding:20px;
     background-color: rgb(180,208,103);
+    border-radius: 20px; /* round the corners of this container */
   }
   
   #img-caption{
