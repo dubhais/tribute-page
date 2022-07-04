@@ -1,24 +1,18 @@
-# README - Learning Journey step 7
+I completed this project on 4 July 2022 - Independence Day! What an 
+interesting journey, which got me to follow an introduction to how the 
+internet works, how to set up files on my system and the best ways to use 
+Git and GitHub for project management. I also followed a small portion of the 
+lessons in the excellent Free Code Camp and played the educational games 
+Line Commander Game and OhMyGit to reinforce what I had learned. 
 
-## 7.2 - Your Tribute Page
+For this final project I benefitted from the following resources:
 
-You will now be using git and vscode to:
+# cloning GitHub repositories 
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-  * _clone_ your repository to your local machine (use the HTTPS link)
+# de[loying your site using github Pages
 
-  * _update_ the sample HTML and CSS files with your own code (from CodePen) 
+Follow the guide 
+at https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
-  * _add, commit and push_ your changes to your brand new repository. Pretty cool eh?
-
-<details>
-  <summary>Super Secret Hint</summary>
-  All of these steps have been covered in step 6 of your *learning journey* if you need any clues as to what to do maybe think about looking back at these resources 🤷
- 
- Link to instructions on cloning:https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
-</details>
-
-## 7.3 - Deploying your site using github Pages
-
-Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Make sure that the deployed branch is `main` in settings.
+(make sure that the deployed branch is `main` in settings)
