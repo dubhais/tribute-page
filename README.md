@@ -16,3 +16,6 @@ Follow the guide
 at https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 (make sure that the deployed branch is `main` in settings)
+
+I also used this guide to using Git with tokens rather than passwords: 
+https://levelup.gitconnected.com/fix-password-authentication-github-3395e579ce74
